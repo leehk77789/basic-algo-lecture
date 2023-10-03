@@ -1,6 +1,6 @@
 # Study
 
-# Rule
+## Rule
 월, 수, 금 : 해당 주차 알고리즘 문제 풀이
 화, 목 : CS강의 시청
 
@@ -18,9 +18,9 @@ CS 문제는 금주에 학습한 내용으로 문제 3문제, 답 정리해서 �
 특별한 사유를 제외하고 3회 결석시 탈퇴
 패널티 벌금은 다음주 스터디룸 예약에 사용
 
-# 일정
+## 일정
 
-# Algorithm
+### Algorithm
 
 git : https://github.com/leehk77789/basic-algo-lecture
 
@@ -84,7 +84,7 @@ git : https://github.com/leehk77789/basic-algo-lecture
 
 28주차(트라이) - [문자열 집합](https://www.acmicpc.net/problem/14425), [접두사 찾기](https://www.acmicpc.net/problem/14426), [전화번호 목록](https://www.acmicpc.net/problem/5052) / [디스크 트리](https://www.acmicpc.net/problem/7432)
 
-# OS
+### OS
 
 강의 : 이화여대 반효경 교수님 강의(http://www.kocw.net/home/cview.do?cid=3646706b4347ef09)
 
@@ -108,7 +108,7 @@ git : https://github.com/leehk77789/basic-algo-lecture
 
 10주차 - File Systems Implementation 1, File Systems Implementation 2, Disk Management and Scheduling 1, Disk Management and Scheduling 2
 
-# Network
+### Network
 
 강의 : 한양대학교 이석복 교수님 강의(http://www.kocw.net/home/cview.do?cid=6166c077e545b736)
 
@@ -135,6 +135,8 @@ git : https://github.com/leehk77789/basic-algo-lecture
 11주차 - 멀티미디어네트워크, 네트워크 보안1
 
 12주차 - 네트워크 보안2
+
+## Folders
 
 ```
 0x00강 - 오리엔테이션
