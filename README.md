@@ -1,12 +1,35 @@
 # Study
 
-# 일정
+## Rule
+월, 수, 금 : 해당 주차 알고리즘 문제 풀이
+화, 목 : CS강의 시청
 
-# Algorithm
+스터디 시간표
+12 ~ 1 : 알고리즘 블로그 정리 개념 설명 + 일주일간 코드 내용 리뷰 
+1 ~ 2 : 금주의 도전 알고리즘 문제
+2 ~ 3 : 방금 푼 알고리즘 문제 리뷰
+3 ~ 4 : cs 문제풀이 + 질의응답
+
+CS 문제풀이
+인당 3문제씩 금주에 학습했던 CS문제 만들어서 함께 풀어볼 예정입니다. 문제, 답 형식으로 3문제 만들어서 토요일까지 정유준<< 에게 보내주시면 됩니다.
+
+스터디룸 예약 및 불참
+전주 일요일 밤까지 스터디 불참 체크.
+
+패널티
+알고리즘 1문제 2000원
+cs 정리 1개당 2000원
+특별한 사유를 제외하고 3회 결석시 탈퇴
+
+패널티 벌금은 바로 다음주 스터디룸 예약에 사용됩니다. 
+
+## 일정
+
+### Algorithm
 
 git : https://github.com/leehk77789/basic-algo-lecture
 
-커밋 형식 : ex) YJ_10808    (google 검색을 참고해서 푸셨으면 뒤에_) YJ_10808_
+파일명 형식 : ex) YJ_10808    (google 검색을 참고해서 푸셨으면 뒤에_) YJ_10808_
 
 / 기준으로 왼쪽에 있는 것이 기본 문제, 오른쪽에 있는 것이 스터디 날에 풀 추가 문제입니다.
 
@@ -66,7 +89,7 @@ git : https://github.com/leehk77789/basic-algo-lecture
 
 28주차(트라이) - [문자열 집합](https://www.acmicpc.net/problem/14425), [접두사 찾기](https://www.acmicpc.net/problem/14426), [전화번호 목록](https://www.acmicpc.net/problem/5052) / [디스크 트리](https://www.acmicpc.net/problem/7432)
 
-# OS
+### OS
 
 강의 : 이화여대 반효경 교수님 강의(http://www.kocw.net/home/cview.do?cid=3646706b4347ef09)
 
@@ -90,7 +113,7 @@ git : https://github.com/leehk77789/basic-algo-lecture
 
 10주차 - File Systems Implementation 1, File Systems Implementation 2, Disk Management and Scheduling 1, Disk Management and Scheduling 2
 
-# Network
+### Network
 
 강의 : 한양대학교 이석복 교수님 강의(http://www.kocw.net/home/cview.do?cid=6166c077e545b736)
 
@@ -117,6 +140,8 @@ git : https://github.com/leehk77789/basic-algo-lecture
 11주차 - 멀티미디어네트워크, 네트워크 보안1
 
 12주차 - 네트워크 보안2
+
+## Folders
 
 ```
 0x00강 - 오리엔테이션
