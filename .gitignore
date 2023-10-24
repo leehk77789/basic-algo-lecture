@@ -988,3 +988,4 @@ FodyWeavers.xsd
 Yj_Algorithm/
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,macos,java,intellij,eclipse,visualstudiocode,visualstudio,python,pycharm,c++,c
+.idea/
